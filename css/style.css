@@ -1,0 +1,49 @@
+/*Profe, le pido mil disculpas pero estuve con problemas de salud y esto lo hice desde una notebook en la clinica, sepa disculpar la desprolijidad.*/
+
+
+
+
+*{
+    font-family: sans-serif;
+}
+.linkHistoria a {
+    list-style: none;
+    text-decoration: none;
+    color: #3f3f3f;
+    font-size: 22px;
+}
+.navbar a{
+    color: fff;
+}
+
+#logo {
+    width: 120px;
+    height: auto;
+}
+.carousel-inner {
+    height: 700px;
+}
+
+.containerCualidades {
+    max-width: 1300px;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    align-items: flex-start;
+}
+
+.containerCualidades h2 {
+    display: flex;
+    margin-bottom: 3rem;
+    font-size: 40px;    
+}
+.containerCualidades p {
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+    margin-top: 5px;
+}
+
+
+
+
